@@ -9,5 +9,5 @@ class Szopa:
 
 szopa1 = Szopa(2,3,5)
 print(szopa1.pomaluj())
-szopa2 = Szopa(5,1,2)
+szopa2 = Szopa(5,1,2)werewr
 print(szopa2.pomaluj())
